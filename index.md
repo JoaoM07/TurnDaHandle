@@ -1,7 +1,8 @@
 
 
 
-https://github.com/user-attachments/assets/2cb6d380-11d7-4a8f-8cd1-28e08289d049
+![Study2_teaser - frame at 0m3s](https://github.com/user-attachments/assets/583b1f4a-c7ca-4132-8d9c-921521e85bd6)
+
 
 
 ## 1. Background
