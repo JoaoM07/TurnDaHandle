@@ -1,5 +1,5 @@
 
-![Book logo]()
+![Book logo](Study2_Logo.jpg)
 
 ## 1. Background
 
