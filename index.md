@@ -1,5 +1,4 @@
-
-
+<video src="https://github.com/JoaoM07/TurnDaHandle/blob/main/Study2_teaser.mp4"></video>
 
 ## 1. Background
 
