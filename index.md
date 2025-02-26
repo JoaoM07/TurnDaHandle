@@ -1,5 +1,5 @@
 
-![screenshot](imageFolder/screenshot.png)
+![Book logo]()
 
 ## 1. Background
 
