@@ -1,9 +1,5 @@
 
-
-
-![Study2_teaser - frame at 0m3s](https://github.com/user-attachments/assets/583b1f4a-c7ca-4132-8d9c-921521e85bd6)
-
-
+![screenshot](imageFolder/screenshot.png)
 
 ## 1. Background
 
